@@ -48,6 +48,8 @@ public class Main {
             confirmar=store.addCar(carros[i]);
             System.out.println(confirmar);
         }
+            System.out.println("");
+            System.out.println("");
             System.out.println("la informacion de los carros es: ");    
             store.getprintInformaciónCarros();
             
